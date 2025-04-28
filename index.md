@@ -11,10 +11,10 @@ Hi! I'm a first-year Ph.D. student at the **Munich AI & NLP Research Lab (MaiNLP
 
 I am a member of [**KLIMA-MEMES**](https://klimamemes.ifkw.lmu.de/), a research group dedicated to exploring climate change memes and their role in public discourse. My work investigates how memes can enhance climate change communication and awareness, as well as how **NLP for Social Good** can be applied to global challenges. My research focuses on **Natural Language Processing (NLP)**, **Multimodal Large Language Models (LLMs)**, specially **meme understanding**.
 
-## 🚀 Projects
+<!-- ## 🚀 Projects
 - [My GitHub Profile](https://github.com/szhou611)
 - [Project 1](#)
-- [Project 2](#)
+- [Project 2](#) -->
 
 ## 📫 Contact
 - Email: zhou.shijia@lmu.com
