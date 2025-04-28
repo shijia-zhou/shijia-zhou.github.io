@@ -6,7 +6,7 @@ layout: default
 
 Welcome to my personal homepage!
 
-## 🧑‍💻 About Me
+## 👩🏻‍💻 About Me
 I'm a researcher/developer passionate about computational linguistics, natural language processing (NLP).
 
 ## 🚀 Projects
