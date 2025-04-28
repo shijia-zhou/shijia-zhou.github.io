@@ -7,7 +7,9 @@ layout: default
 Welcome to my personal homepage!
 
 ## 👩🏻‍💻 About Me
-I'm a researcher/developer passionate about computational linguistics, natural language processing (NLP).
+Hi! I'm a first-year Ph.D. student at the **Munich AI & NLP Research Lab (MaiNLP)** at **Ludwig-Maximilians-University (LMU)**, where I work under the supervision of **Prof. Dr. Barbara Plank** ([BP homepage](https://bplank.github.io/)). Additionally, I have the privilege of having **Saif M. Mohammad** ([SMM homepage](https://www.saifmohammad.com/)) as my co-supervisor.
+
+I am a member of **KLIMA-MEMES** ([KLIMA-MEMES homepage](https://klimamemes.ifkw.lmu.de/)), a research group dedicated to exploring climate change memes and their role in public discourse. My work investigates how memes can enhance climate change communication and awareness, as well as how **NLP for Social Good** can be applied to global challenges. My research focuses on **Natural Language Processing (NLP)**, **Multimodal Large Language Models (LLMs)**, specially **meme understanding**.
 
 ## 🚀 Projects
 - [My GitHub Profile](https://github.com/szhou611)
