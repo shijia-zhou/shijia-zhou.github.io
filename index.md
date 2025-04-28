@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Hello, I'm Shijia Zhang 👋
+# Hello, I'm Shijia Zhou 👋
 
 Welcome to my personal homepage!
 
